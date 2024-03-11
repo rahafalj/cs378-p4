@@ -1,0 +1,22 @@
+.parent {
+    width: 210px;
+    overflow: hidden;
+    padding-left: 80px;
+}
+
+.time {
+    width: 120px;
+    float:left; 
+}
+
+.temp {
+    overflow: hidden;
+}
+
+.time h1 {
+    text-align: center;
+}
+
+.temp h1 {
+    text-align: center;
+}
